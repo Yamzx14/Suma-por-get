@@ -1,0 +1,11 @@
+C:\Users\emili\source\repos\Suma set y get\Suma set y get\bin\Debug\Suma set y get.exe.config
+C:\Users\emili\source\repos\Suma set y get\Suma set y get\bin\Debug\Suma set y get.exe
+C:\Users\emili\source\repos\Suma set y get\Suma set y get\bin\Debug\Suma set y get.pdb
+C:\Users\emili\source\repos\Suma set y get\Suma set y get\obj\Debug\Suma set y get.csproj.AssemblyReference.cache
+C:\Users\emili\source\repos\Suma set y get\Suma set y get\obj\Debug\Suma set y get.csproj.SuggestedBindingRedirects.cache
+C:\Users\emili\source\repos\Suma set y get\Suma set y get\obj\Debug\Suma_set_y_get.Form1.resources
+C:\Users\emili\source\repos\Suma set y get\Suma set y get\obj\Debug\Suma_set_y_get.Properties.Resources.resources
+C:\Users\emili\source\repos\Suma set y get\Suma set y get\obj\Debug\Suma set y get.csproj.GenerateResource.cache
+C:\Users\emili\source\repos\Suma set y get\Suma set y get\obj\Debug\Suma set y get.csproj.CoreCompileInputs.cache
+C:\Users\emili\source\repos\Suma set y get\Suma set y get\obj\Debug\Suma set y get.exe
+C:\Users\emili\source\repos\Suma set y get\Suma set y get\obj\Debug\Suma set y get.pdb
